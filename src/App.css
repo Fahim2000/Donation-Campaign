@@ -1,0 +1,21 @@
+.active {
+  color: rgb(224, 64, 64) !important;
+  text-decoration: underline !important;
+  text-underline-offset: 10px;
+  background: 0 !important;
+}
+
+.custom-btn {
+  background-color: #ff444a;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  padding: 16px 6px;
+  width: 110px;
+  
+  color: white;
+}
+
+
+.category{
+    display: inline !important;
+}

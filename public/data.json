@@ -1,0 +1,110 @@
+[
+  {
+    "picture": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Medical Supplies",
+    "id": 2,
+    "category": "Health",
+    "category_bg_color": "#AEC7FF",
+    "card_bg_color": "#D9E5FF",
+    "text_color": "#224fb3",
+    "button_bg_color": "#224fb3",
+    "description": "Donation of essential medical supplies to healthcare facilities.",
+    "price": 250.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "School Supplies",
+    "category": "Education",
+    "id": 3,
+    "category_bg_color": "#FFC4C5",
+    "card_bg_color": "#FFE3E4",
+    "text_color": "#FF444A",
+    "button_bg_color": "#FF444A",
+    "description": "Donation of books, stationery, and educational resources to schools.",
+    "price": 150.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Warm Clothing",
+    "category": "Clothing",
+    "id": 4,
+    "category_bg_color": "#D4ECC2",
+    "card_bg_color": "#EBF6E2",
+    "text_color": "#79C23F",
+    "button_bg_color": "#79C23F",
+    "description": "Donation of warm clothing for the homeless during winter.",
+    "price": 100.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1643321613180-68d62b93cb79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Food Hampers",
+    "category": "Food",
+    "id": 5,
+    "category_bg_color": "#FDD2C4",
+    "card_bg_color": "#FEEAE4",
+    "text_color": "#F87147",
+    "button_bg_color": "#F87147",
+    "description": "Donation of food hampers to families in need.",
+    "price": 200.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Children's Toys",
+    "category": "Education",
+    "id": 6,
+    "category_bg_color": "#FFC4C5",
+    "card_bg_color": "#FFE3E4",
+    "text_color": "#FF444A",
+    "button_bg_color": "#FF444A",
+    "description": "Donation of toys and games for children's educational activities.",
+    "price": 120.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "First Aid Kits",
+    "category": "Health",
+    "id": 7,
+    "category_bg_color": "#AEC7FF",
+    "card_bg_color": "#D9E5FF",
+    "text_color": "#224fb3",
+    "button_bg_color": "#33ccff",
+    "description": "Donation of first aid kits to community centers and clinics.",
+    "price": 180.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "School Backpacks",
+    "id":1,
+    "category": "Education",
+    "category_bg_color": "#FFC4C5",
+    "card_bg_color": "#FFE3E4",
+    "text_color": "#FF444A",
+    "button_bg_color": "#FF444A",
+    "description": "Donation of school backpacks filled with supplies for students.",
+    "price": 130.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Winter Coats",
+    "category": "Clothing",
+    "id": 8,
+    "category_bg_color": "#D4ECC2",
+    "card_bg_color": "#EBF6E2",
+    "text_color": "#79C23F",
+    "button_bg_color": "#79C23F",
+    "description": "Donation of winter coats for people in need.",
+    "price": 175.0
+  },
+  {
+    "picture": "https://images.unsplash.com/photo-1643321613180-68d62b93cb79?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Food Vouchers",
+    "category": "Food",
+    "id": 9,
+    "category_bg_color": "#FDD2C4",
+    "card_bg_color": "#FEEAE4",
+    "text_color": "#F87147",
+    "button_bg_color": "#F87147",
+    "description": "Donation of food vouchers for families to use in grocery stores.",
+    "price": 220.0
+  }
+]
